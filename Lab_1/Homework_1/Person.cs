@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Homework_1
 {
-    class Person
+    class Person : IThing
     {
         private string name;
         private int age;
+
         public string Name { get => name; set => name = value; }
+
         public int Age { get => age; set => age = value; }
 
 
@@ -18,7 +20,11 @@ namespace Homework_1
         {
             this.name = name;
             this.age = age;
+        }
 
+        public virtual void Print(string prefix)
+        {
+            Console.Write($"{name} ({age} y.o.)\n");
         }
     }
 }

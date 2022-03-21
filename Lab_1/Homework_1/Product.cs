@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Homework_1
 {
-    class Product
+    class Product : IThing
     {
         private string name;
         public string Name { get => name; set => name = value; }
@@ -14,7 +14,12 @@ namespace Homework_1
         public Product(string name)
         {
             this.name = name;
+        }
 
+        public virtual void Print (string prefix)
+        {
+            Console.Write($"{prefix}{name}");
+            
         }
     }
 }

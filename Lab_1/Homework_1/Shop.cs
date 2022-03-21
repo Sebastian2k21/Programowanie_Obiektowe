@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Homework_1
 {
-    class Shop
+    class Shop : IThing
     {
         private string name;
         private Person[] people;
@@ -22,7 +22,20 @@ namespace Homework_1
 
         public void Print()
         {
-            return;
+            Console.WriteLine($"Shop: {name} ");
+            Console.WriteLine("-- People: --");
+
+            for (int i = 0; i < people.Length; i++)
+            {
+                people[i].Print("\t");            
+            }
+            Console.WriteLine("-- Products: --");
+
+            for (int i = 0; i <products.Length ; i++)
+            {
+                products[i].Print("\t");
+            }
+
         }
     }
 }
