@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework_1
+namespace lab_2_zadanie
 {
     interface IThing
     {

@@ -1,4 +1,4 @@
-﻿namespace Homework_1
+﻿namespace lab_2_zadanie
 {
     public class Program
     {

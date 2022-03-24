@@ -1,0 +1,15 @@
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\obj\Debug\net5.0\lab_2_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\obj\Debug\net5.0\lab_2_zadanie.AssemblyInfoInputs.cache
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\obj\Debug\net5.0\lab_2_zadanie.AssemblyInfo.cs
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\obj\Debug\net5.0\lab_2_zadanie.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\bin\Debug\net5.0\lab_2_zadanie.exe
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\bin\Debug\net5.0\lab_2_zadanie.deps.json
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\bin\Debug\net5.0\lab_2_zadanie.runtimeconfig.json
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\bin\Debug\net5.0\lab_2_zadanie.runtimeconfig.dev.json
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\bin\Debug\net5.0\lab_2_zadanie.dll
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\bin\Debug\net5.0\ref\lab_2_zadanie.dll
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\bin\Debug\net5.0\lab_2_zadanie.pdb
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\obj\Debug\net5.0\lab_2_zadanie.dll
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\obj\Debug\net5.0\ref\lab_2_zadanie.dll
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\obj\Debug\net5.0\lab_2_zadanie.pdb
+C:\Users\sebas\Source\Repos\Sebastian2k21\Programowanie_Obiektowe\lab_2_zadanie\Programowanie_Obiektowe\Lab_1\Homework_1\obj\Debug\net5.0\lab_2_zadanie.genruntimeconfig.cache
