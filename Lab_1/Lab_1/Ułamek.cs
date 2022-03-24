@@ -130,14 +130,32 @@ namespace Lab_1
         {
             return new Ulamek(a.licznik + b.licznik, a.mianownik);
         }
+        /// <summary>
+        /// przeładowanie operatora - 
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns>różnica ułamków</returns>
         public static Ulamek operator -(Ulamek a, Ulamek b)
         {
             return new Ulamek(a.licznik - b.licznik, a.mianownik);
         }
+        /// <summary>
+        /// przeładowanie operatora "/"
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns>dzielenie ułamków</returns>
         public static Ulamek operator /(Ulamek a, Ulamek b)
         {
             return new Ulamek(a.licznik * b.mianownik, a.mianownik *b.licznik);
         }
+        /// <summary>
+        /// przeładowanie operatora "*"
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns>mnożenie ułamków</returns>
         public static Ulamek operator *(Ulamek a, Ulamek b)
         {
             return new Ulamek(a.licznik * b.licznik, a.mianownik * b.mianownik);
