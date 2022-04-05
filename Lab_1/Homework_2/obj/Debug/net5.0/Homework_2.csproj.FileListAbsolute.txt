@@ -2,3 +2,15 @@ C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework
 C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.AssemblyInfoInputs.cache
 C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.AssemblyInfo.cs
 C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\bin\Debug\net5.0\Homework_2.exe
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\bin\Debug\net5.0\Homework_2.deps.json
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\bin\Debug\net5.0\Homework_2.runtimeconfig.json
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\bin\Debug\net5.0\Homework_2.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\bin\Debug\net5.0\Homework_2.dll
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\bin\Debug\net5.0\ref\Homework_2.dll
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\bin\Debug\net5.0\Homework_2.pdb
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.dll
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\ref\Homework_2.dll
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.pdb
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.genruntimeconfig.cache
