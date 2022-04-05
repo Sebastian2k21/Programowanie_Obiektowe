@@ -1,0 +1,4 @@
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Sebastian2k21\Programowanie_Obiektowe\Lab_1\Homework_2\obj\Debug\net5.0\Homework_2.csproj.CoreCompileInputs.cache
