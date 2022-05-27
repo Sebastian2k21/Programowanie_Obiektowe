@@ -188,9 +188,12 @@ namespace lab6obi
             // METHOD-BASED QUERY SYNTAX
 
             Console.WriteLine("\n----------Zadanie 1 -----------\n");
+
             var zad1 = users.ToArray().Length;
             Console.WriteLine("1. " + zad1);
+
             Console.WriteLine("\n----------Zadanie 2 -----------\n");
+
             var zad2 = users.Select(u => u.Name);
             foreach (var name in zad2)
             {
@@ -312,7 +315,7 @@ namespace lab6obi
                 }
             }
             Console.WriteLine("\n----------Zadanie 17 -----------\n");
-            var zad17 = users.Where(x => x.RemovedAt != null).ToList();
+            var zad17 = users.Where(x => x.RemovedAt == null).ToList();
             Console.WriteLine("Nieusunieci uzytkownicy:");
             zad17.ForEach(x => Console.WriteLine(x.Name));
 
